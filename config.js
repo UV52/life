@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
         message: "If someday you wake up and u slowly open ur eyes\n and find that you are in a room whose walls are red and there are no windows and doors in the room.\n Don't get panick,\n you are in my heart",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
