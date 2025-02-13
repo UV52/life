@@ -50,9 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "If Some Day You Wake Up and u slowly open your eyes and find that 
-                    you are in a room whose walls are red and there are no windows and doors in the room.
-                        Don't panick, You are in my heart.!",
+        message: ""
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
